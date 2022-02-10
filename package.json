@@ -132,7 +132,7 @@
     "lodash.set": "^4.3.2",
     "lodash.startswith": "^4.2.1",
     "mermaid": "8.0.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "prismjs": "^1.16.0",
     "prop-types": "^15.7.2",
     "raw-loader": "^2.0.0",
