@@ -124,7 +124,7 @@
     "gatsby-remark-prismjs": "^3.2.6",
     "gatsby-remark-responsive-iframe": "^2.1.1",
     "gatsby-source-filesystem": "^2.0.27",
-    "gatsby-transformer-remark": "^2.3.8",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.17",
     "lodash.assign": "^4.2.0",
     "lodash.endswith": "^4.2.1",
